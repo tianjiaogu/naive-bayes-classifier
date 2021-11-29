@@ -1,5 +1,5 @@
 # naive-bayes-classifier
-This is a project of Data Mining class
+This is a project of Machine Learning class
 
 We use three data sets of increasing complexity from UCI repository, and each of the data set has two classes and discrete valued features. 
 
